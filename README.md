@@ -15,7 +15,6 @@ You may first convert to uint8 type if you use rgb images. The function outputs 
 ![](images/testFile3-4-5.jpg)
 ![](images/testFile3-4-6.jpg)
 ![](images/testFile3-4-7.jpg)
-![](images/testFile1-2-1.jpg)
 ![](images/testfile5-1.jpg)
 ![](images/testfile5-2.jpg)
 ![](images/testfile5-3.jpg)
