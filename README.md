@@ -30,3 +30,6 @@ You may first convert to uint8 type if you use rgb images. The function outputs 
 ![](images/testFile7-5.jpg)
 ![](images/testFile7-6.jpg)
 ![](images/testFile7-7.jpg)
+![](images/testFile8-1.jpg)
+![](images/testFile8-2.jpg)
+![](images/testFile8-3.jpg)
